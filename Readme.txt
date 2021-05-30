@@ -1,4 +1,4 @@
-project created for mlh hack cade hackathoon
+project  created for mlh hack cade hackathoon
 team members
 - ahmad salahuddeen : beginner in flutter, html, css3, js, and          started   to learn python after joining hackcade
 - Mohammed khashih : beginner and started learning python after         joining hackathon 
