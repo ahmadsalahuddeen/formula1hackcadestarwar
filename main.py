@@ -7,7 +7,7 @@ from pygame import mixer
 pygame.init()
 
 
-screen = pygame.display.set_mode((800, 600))  
+screen = pygame.display.set_mode((800, 600), pygame.RESIZABLE)  
 
 
 background = pygame.image.load('background.png')
