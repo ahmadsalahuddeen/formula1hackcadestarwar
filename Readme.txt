@@ -1,10 +1,9 @@
-NOTE: This font is for PERSONAL USE ONLY!
+project created for mlh hack cade hackathoon
+team members
+- ahmad salahuddeen : beginner in flutter, html, css3, js, and          started   to learn python after joining hackcade
+- Mohammed khashih : beginner and started learning python after         joining hackathon 
+- haider alee :  beginner and started learning python after         joining hackathon 
 
-if you want to use font for commercial use please buy it at:
-https://fontbundles.net/nicomuslib
+we watched and read a lot of documents and videos about pygame to develop this game we spend almost 80% of alloted time studying the language and pygame library 
 
-Paypal account for donation :
-https://paypal.me/muslib
-
-Thank you :)
 
